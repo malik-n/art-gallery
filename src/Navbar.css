@@ -1,0 +1,18 @@
+nav {
+    background-image: url(./public/images/nav-background.jpeg);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul {
+    display: flex;
+    gap: 50px;
+}
+
+li {
+   list-style: none;
+}
+
+a {
+   text-decoration: none;
+}

@@ -1,0 +1,24 @@
+main {
+    display: flex;
+    text-align: left;
+}
+
+#welcome {
+
+    flex-grow: 1;
+}
+
+.image {
+    width: auto;
+    height: 400px;
+}
+
+/* .image-container {
+    float: left;
+    margin-right: 20px;
+    width: 100px;
+} */
+
+/* .text-container {
+    overflow: hidden;
+} */
